@@ -4,7 +4,7 @@ import (
 	"fyne.io/fyne/app"
 	"fyne.io/fyne/widget"
 
-  downloader "github.com/hedarikun/yandereDownloader/downloader"
+  downloader "github.com/ralindos/coomerhelper/downloader"
 )
 
 func main() {
