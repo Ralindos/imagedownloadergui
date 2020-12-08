@@ -1,4 +1,4 @@
-module github.com/ralindos/coomerhelper/dw
+module github.com/ralindos/coomerhelper
 
 go 1.13
 
