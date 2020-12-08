@@ -1,4 +1,4 @@
-package dw
+package downloader
 
 import (
 	"encoding/json"
