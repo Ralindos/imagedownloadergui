@@ -1,7 +1,1 @@
-# coomerhelper
-cooming with some help
-
-coomerhelper downloads some latest images from very bad website
-
-
-coomerhelper sciaga bardzo zle obrazki z bardzo zlej stronki
+It's just downloading random images to the directory your .exe is in.
